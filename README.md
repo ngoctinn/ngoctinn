@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nguyễn Ngọc Tín
+# 👋 Hi, I’m Nguyen Ngoc Tin
 ### 🚀 About Me
 I’m studying **Information Systems** at Saigon University. I love data and technology and want to become a Data Engineer (DE). I can learn things on my own, which helps me understand new technologies better.
 <!---
